@@ -149,6 +149,7 @@ $(function() {
   });
 });
 
+
   // Accordion functionality
   const togglers = document.querySelectorAll('[data-bs-toggle]');
   togglers.forEach((btn) => {
